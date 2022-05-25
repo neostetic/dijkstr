@@ -1,2 +1,1 @@
 # dijkstr
-Algorythm for School
